@@ -9,4 +9,6 @@
       <attribute name="version-id" value="3.1"/>
     </node>
   </facet>
+  <facet id="jst.web"/>
+  <facet id="java"/>
 </root>

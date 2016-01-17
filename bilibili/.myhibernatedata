@@ -1,0 +1,17 @@
+#MyEclipse Hibernate Properties
+#Sun Jan 17 20:13:03 CET 2016
+genVersionTag=false
+sessionFactoryName=configuration.HibernateSessionFactory
+genAnnotations=false
+configFile=/bilibili/src/main/resources/configuration/hibernate.cfg.xml
+reStrategyClass=
+sessionFactoryId=
+profile=
+detectM2M=false
+genBasicCompId=false
+keyGenerator=
+createConfigFile=true
+basePersistenceClass=
+detectO2O=false
+useJavaTypes=true
+reSettingsFile=
